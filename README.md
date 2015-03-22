@@ -34,6 +34,7 @@ The exact number 0.3 in floating point is
 
 So due to rounding errors, you should not compare non-integers directly. Instead, take an upper bound for rounding errors into consideration. This upper bound is called the machine epsilon. [Machine epsilon](http://en.wikipedia.org/wiki/Machine_epsilon) gives an upper bound on the relative error due to rounding in floating point arithmetic. The standard epsilon value for double precision is 2<sup>−53</sup>.
 
+[source](http://speakingjs.com/es5/ch11.html#rounding_errors)
 
 # Install
 
