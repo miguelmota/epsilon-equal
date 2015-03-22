@@ -1,0 +1,25 @@
+{
+  "name": "epsilon-equal",
+  "main": "epsilon-equal.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/epsilon-equal",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Compares two numbers taking the standard epsilon value for double precision into consideration.",
+  "keywords": [
+    "epsilon",
+    "equal",
+    "floating point",
+    "64 bit",
+    "IEEE 754"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
