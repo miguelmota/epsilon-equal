@@ -1,6 +1,6 @@
 {
   "name": "epsilon-equal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compares two numbers taking the standard epsilon value for double precision into consideration.",
   "main": "epsilon-equal.js",
   "directories": {
